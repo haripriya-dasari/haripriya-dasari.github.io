@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hari Priya Dasari</title>
+    <link>https://haripriyadasari.gitlab.io/</link>
+    <description>Recent content on Hari Priya Dasari</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 13 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://haripriyadasari.gitlab.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Seeking New Challenges</title>
+      <link>https://haripriyadasari.gitlab.io/posts/open-to-work/</link>
+      <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://haripriyadasari.gitlab.io/posts/open-to-work/</guid>
+      <description>&lt;p&gt;As I continue to pursue my passion for Data Science at the University of North Texas, I&amp;rsquo;m now open to exploring new opportunities in the field. With a strong foundation in software engineering and a growing expertise in Data Science, I&amp;rsquo;m eager to apply my skills and knowledge to drive business growth and innovation.&lt;/p&gt;&#xA;&lt;p&gt;About Me&lt;/p&gt;&#xA;&lt;p&gt;As a detail-oriented and motivated individual, I&amp;rsquo;ve always been fascinated by the power of data to inform decision-making and drive business success. With a background in software engineering, I&amp;rsquo;ve worked on various projects and technologies, including the MEAN stack. Currently, I&amp;rsquo;m expanding my skill set in Data Science, and I&amp;rsquo;m excited to bring my unique blend of technical and analytical skills to a new role.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://haripriyadasari.gitlab.io/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://haripriyadasari.gitlab.io/about/</guid>
+      <description>&lt;p&gt;Hi, I&amp;rsquo;m Hari Priya. I&amp;rsquo;m currently pursuing a degree in Data Science at the &lt;a href=&#34;https://www.unt.edu/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of North Texas&lt;/a&gt;,Dallas.&#xA;Furthering my education in Data Science at UNT and exploring the possibilities of data-driven insights.&#xA;Prior to this, I worked at &lt;a href=&#34;https://www.accenture.com/in-en&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Accenture&lt;/a&gt; as an Associate Software Engineer on the MEAN stack.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://haripriyadasari.gitlab.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haripriyadasari.gitlab.io/contact/</guid>
+      <description>&lt;p&gt;Email: &lt;a href=&#34;mailto:haripriyadasari28@gmail.com&#34; &gt;haripriyadasari28@gmail.com&lt;/a&gt;&#xA;Github:&#xA;LinkedIn: &lt;a href=&#34;https://in.linkedin.com/in/haripriya-dasari-govindappa&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;/in/haripriya-dasari-govindappa&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>https://haripriyadasari.gitlab.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haripriyadasari.gitlab.io/projects/</guid>
+      <description>&lt;p&gt;Nothing to see here&amp;hellip; Move along!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
